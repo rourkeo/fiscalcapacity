@@ -1,0 +1,1072 @@
+state,year,totaltaxableresources_inbn
+Alabama,1995,101.2
+Alabama,1996,110.1
+Alabama,1997,116.4
+Alabama,1998,123.7
+Alabama,1999,129.2
+Alabama,2000,131.3
+Alabama,2001,134
+Alabama,2002,144.1
+Alabama,2003,164.9
+Alabama,2004,182
+Alabama,2005,173.9
+Alabama,2006,185.1
+Alabama,2007,193.6
+Alabama,2008,193.1
+Alabama,2009,183.4
+Alabama,2010,190.2
+Alabama,2011,198.3
+Alabama,2012,207.6
+Alabama,2013,209.1
+Alabama,2014,215.6
+Alabama,2015,221.9
+Alaska,1995,23.1
+Alaska,1996,26
+Alaska,1997,28
+Alaska,1998,26.3
+Alaska,1999,27.1
+Alaska,2000,27.5
+Alaska,2001,28.7
+Alaska,2002,30.9
+Alaska,2003,34.5
+Alaska,2004,38.5
+Alaska,2005,41.4
+Alaska,2006,46.6
+Alaska,2007,51.7
+Alaska,2008,56.6
+Alaska,2009,50.8
+Alaska,2010,54.5
+Alaska,2011,59.5
+Alaska,2012,62.2
+Alaska,2013,60.2
+Alaska,2014,59.3
+Alaska,2015,54.7
+Arizona,1995,112.8
+Arizona,1996,127.5
+Arizona,1997,138.6
+Arizona,1998,151.8
+Arizona,1999,163.7
+Arizona,2000,182.3
+Arizona,2001,186.8
+Arizona,2002,197.4
+Arizona,2003,210.7
+Arizona,2004,228.4
+Arizona,2005,256.8
+Arizona,2006,281.9
+Arizona,2007,298.4
+Arizona,2008,282.4
+Arizona,2009,259.6
+Arizona,2010,263.2
+Arizona,2011,275.9
+Arizona,2012,292.9
+Arizona,2013,294.3
+Arizona,2014,309.9
+Arizona,2015,323
+Arkansas,1995,57.3
+Arkansas,1996,63.3
+Arkansas,1997,66.7
+Arkansas,1998,70.1
+Arkansas,1999,73.4
+Arkansas,2000,76.8
+Arkansas,2001,78.7
+Arkansas,2002,82.9
+Arkansas,2003,94.2
+Arkansas,2004,102.5
+Arkansas,2005,99.7
+Arkansas,2006,106.2
+Arkansas,2007,111.5
+Arkansas,2008,113.2
+Arkansas,2009,108.2
+Arkansas,2010,112.8
+Arkansas,2011,120.2
+Arkansas,2012,127
+Arkansas,2013,128.4
+Arkansas,2014,135
+Arkansas,2015,137.2
+California,1995,967.1
+California,1996,1057.1
+California,1997,1147
+California,1998,1245
+California,1999,1355.4
+California,2000,1495.2
+California,2001,1452.3
+California,2002,1551.2
+California,2003,1786.6
+California,2004,1939.9
+California,2005,1929.1
+California,2006,2080.2
+California,2007,2187
+California,2008,2138.3
+California,2009,2004.8
+California,2010,2069.9
+California,2011,2171.9
+California,2012,2338.2
+California,2013,2381.7
+California,2014,2565.2
+California,2015,2722
+Colorado,1995,114.7
+Colorado,1996,130
+Colorado,1997,144.5
+Colorado,1998,156.8
+Colorado,1999,170.7
+Colorado,2000,193.9
+Colorado,2001,197.4
+Colorado,2002,205.1
+Colorado,2003,248.3
+Colorado,2004,264.5
+Colorado,2005,242.5
+Colorado,2006,261
+Colorado,2007,280.6
+Colorado,2008,279.2
+Colorado,2009,263.3
+Colorado,2010,269.8
+Colorado,2011,286.1
+Colorado,2012,304.6
+Colorado,2013,311.1
+Colorado,2014,336.1
+Colorado,2015,346.5
+Connecticut,1995,135.1
+Connecticut,1996,145.5
+Connecticut,1997,159
+Connecticut,1998,170.5
+Connecticut,1999,178
+Connecticut,2000,200
+Connecticut,2001,198.6
+Connecticut,2002,202.6
+Connecticut,2003,228.3
+Connecticut,2004,253
+Connecticut,2005,251.2
+Connecticut,2006,271.8
+Connecticut,2007,298.8
+Connecticut,2008,284.9
+Connecticut,2009,269.5
+Connecticut,2010,276.8
+Connecticut,2011,279.7
+Connecticut,2012,295.4
+Connecticut,2013,291.1
+Connecticut,2014,302.3
+Connecticut,2015,314.2
+Delaware,1995,30.3
+Delaware,1996,32.1
+Delaware,1997,35
+Delaware,1998,36.8
+Delaware,1999,38.7
+Delaware,2000,46
+Delaware,2001,48.2
+Delaware,2002,48.2
+Delaware,2003,51.7
+Delaware,2004,57.3
+Delaware,2005,59.8
+Delaware,2006,63.4
+Delaware,2007,65.1
+Delaware,2008,62.7
+Delaware,2009,63.5
+Delaware,2010,63.5
+Delaware,2011,66.9
+Delaware,2012,68.4
+Delaware,2013,68.5
+Delaware,2014,73.8
+Delaware,2015,77.2
+District of Columbia,1995,25.3
+District of Columbia,1996,25
+District of Columbia,1997,26.7
+District of Columbia,1998,27.6
+District of Columbia,1999,28.5
+District of Columbia,2000,31.3
+District of Columbia,2001,35.8
+District of Columbia,2002,41.4
+District of Columbia,2003,40.7
+District of Columbia,2004,44.8
+District of Columbia,2005,47.4
+District of Columbia,2006,50.3
+District of Columbia,2007,54.6
+District of Columbia,2008,55.3
+District of Columbia,2009,53.7
+District of Columbia,2010,56.4
+District of Columbia,2011,59.5
+District of Columbia,2012,63.3
+District of Columbia,2013,63.3
+District of Columbia,2014,67.4
+District of Columbia,2015,71.1
+Florida,1995,394.1
+Florida,1996,444.1
+Florida,1997,479.1
+Florida,1998,518
+Florida,1999,546
+Florida,2000,594
+Florida,2001,604.3
+Florida,2002,652.5
+Florida,2003,738.8
+Florida,2004,828.4
+Florida,2005,862.6
+Florida,2006,932.1
+Florida,2007,972.8
+Florida,2008,905.4
+Florida,2009,833.5
+Florida,2010,860.6
+Florida,2011,889.8
+Florida,2012,946.8
+Florida,2013,946.8
+Florida,2014,1021.5
+Florida,2015,1092.3
+Georgia,1995,206.8
+Georgia,1996,235.1
+Georgia,1997,254.8
+Georgia,1998,278.4
+Georgia,1999,300
+Georgia,2000,321.5
+Georgia,2001,327.7
+Georgia,2002,347.3
+Georgia,2003,428.4
+Georgia,2004,454.1
+Georgia,2005,416.5
+Georgia,2006,440.7
+Georgia,2007,460.3
+Georgia,2008,442.5
+Georgia,2009,425.5
+Georgia,2010,433.7
+Georgia,2011,453.5
+Georgia,2012,475.5
+Georgia,2013,483.3
+Georgia,2014,515.9
+Georgia,2015,541.6
+Hawaii,1995,38
+Hawaii,1996,40.3
+Hawaii,1997,41.8
+Hawaii,1998,42.9
+Hawaii,1999,44.7
+Hawaii,2000,45.7
+Hawaii,2001,46.1
+Hawaii,2002,49.2
+Hawaii,2003,50.3
+Hawaii,2004,56.2
+Hawaii,2005,62.7
+Hawaii,2006,67.4
+Hawaii,2007,71.1
+Hawaii,2008,71.1
+Hawaii,2009,68.4
+Hawaii,2010,70.8
+Hawaii,2011,72.7
+Hawaii,2012,76.6
+Hawaii,2013,77.5
+Hawaii,2014,81.1
+Hawaii,2015,85
+Idaho,1995,29.3
+Idaho,1996,32
+Idaho,1997,33.8
+Idaho,1998,36
+Idaho,1999,39.7
+Idaho,2000,41.7
+Idaho,2001,41
+Idaho,2002,44.1
+Idaho,2003,49.1
+Idaho,2004,53.8
+Idaho,2005,54.3
+Idaho,2006,60.2
+Idaho,2007,64
+Idaho,2008,63.6
+Idaho,2009,59.3
+Idaho,2010,60.5
+Idaho,2011,63.5
+Idaho,2012,67.3
+Idaho,2013,68.9
+Idaho,2014,72.7
+Idaho,2015,75.7
+Illinois,1995,380.9
+Illinois,1996,420.6
+Illinois,1997,450.1
+Illinois,1998,481.4
+Illinois,1999,498.9
+Illinois,2000,542.8
+Illinois,2001,539.8
+Illinois,2002,567.2
+Illinois,2003,652.8
+Illinois,2004,695.1
+Illinois,2005,649.3
+Illinois,2006,701.2
+Illinois,2007,741
+Illinois,2008,720.1
+Illinois,2009,688.1
+Illinois,2010,705.8
+Illinois,2011,741
+Illinois,2012,792.3
+Illinois,2013,789.5
+Illinois,2014,831.9
+Illinois,2015,861.7
+Indiana,1995,158.1
+Indiana,1996,174.4
+Indiana,1997,184.1
+Indiana,1998,200.8
+Indiana,1999,205
+Indiana,2000,224.5
+Indiana,2001,223.5
+Indiana,2002,239.5
+Indiana,2003,280.7
+Indiana,2004,299.2
+Indiana,2005,269.8
+Indiana,2006,286.2
+Indiana,2007,304.5
+Indiana,2008,301.7
+Indiana,2009,286.1
+Indiana,2010,306.3
+Indiana,2011,320
+Indiana,2012,333.5
+Indiana,2013,340.5
+Indiana,2014,358
+Indiana,2015,368.7
+Iowa,1995,77.3
+Iowa,1996,87.5
+Iowa,1997,92.7
+Iowa,1998,95.7
+Iowa,1999,97.9
+Iowa,2000,106.4
+Iowa,2001,105.9
+Iowa,2002,113.3
+Iowa,2003,127.1
+Iowa,2004,141.3
+Iowa,2005,135.4
+Iowa,2006,142.6
+Iowa,2007,155.1
+Iowa,2008,153.2
+Iowa,2009,149.3
+Iowa,2010,153.8
+Iowa,2011,163.5
+Iowa,2012,176.8
+Iowa,2013,177.5
+Iowa,2014,187.3
+Iowa,2015,193.7
+Kansas,1995,71.7
+Kansas,1996,79.7
+Kansas,1997,85.8
+Kansas,1998,91
+Kansas,1999,94.4
+Kansas,2000,100.6
+Kansas,2001,102.5
+Kansas,2002,106.5
+Kansas,2003,117.8
+Kansas,2004,123
+Kansas,2005,119.8
+Kansas,2006,132
+Kansas,2007,144.5
+Kansas,2008,149
+Kansas,2009,140.4
+Kansas,2010,145.1
+Kansas,2011,155.8
+Kansas,2012,164.1
+Kansas,2013,163.5
+Kansas,2014,171
+Kansas,2015,175.4
+Kentucky,1995,95.8
+Kentucky,1996,105.9
+Kentucky,1997,113.2
+Kentucky,1998,121.3
+Kentucky,1999,125.8
+Kentucky,2000,127.8
+Kentucky,2001,130.1
+Kentucky,2002,137.4
+Kentucky,2003,156.9
+Kentucky,2004,166.5
+Kentucky,2005,157.8
+Kentucky,2006,169.2
+Kentucky,2007,175.1
+Kentucky,2008,176.2
+Kentucky,2009,169.6
+Kentucky,2010,179.4
+Kentucky,2011,187.2
+Kentucky,2012,196.4
+Kentucky,2013,197.3
+Kentucky,2014,204.8
+Kentucky,2015,211.8
+Louisiana,1995,117.9
+Louisiana,1996,130.8
+Louisiana,1997,135.7
+Louisiana,1998,135.5
+Louisiana,1999,146.5
+Louisiana,2000,141
+Louisiana,2001,144.6
+Louisiana,2002,148.7
+Louisiana,2003,183.3
+Louisiana,2004,200.7
+Louisiana,2005,207.6
+Louisiana,2006,220.6
+Louisiana,2007,220
+Louisiana,2008,229.7
+Louisiana,2009,219.2
+Louisiana,2010,240.1
+Louisiana,2011,243.8
+Louisiana,2012,254.7
+Louisiana,2013,243.8
+Louisiana,2014,255.9
+Louisiana,2015,252.8
+Maine,1995,30.6
+Maine,1996,33.1
+Maine,1997,35
+Maine,1998,37.4
+Maine,1999,39.4
+Maine,2000,42.7
+Maine,2001,43.3
+Maine,2002,45.7
+Maine,2003,51.3
+Maine,2004,54.9
+Maine,2005,52.1
+Maine,2006,55.3
+Maine,2007,57.3
+Maine,2008,56
+Maine,2009,55.3
+Maine,2010,56.4
+Maine,2011,57.3
+Maine,2012,59.6
+Maine,2013,59.4
+Maine,2014,62.4
+Maine,2015,64.6
+Maryland,1995,164.9
+Maryland,1996,182
+Maryland,1997,195
+Maryland,1998,207.9
+Maryland,1999,220
+Maryland,2000,236.8
+Maryland,2001,244.1
+Maryland,2002,271.5
+Maryland,2003,319.4
+Maryland,2004,347.6
+Maryland,2005,321.8
+Maryland,2006,343.2
+Maryland,2007,359.7
+Maryland,2008,355.1
+Maryland,2009,353.9
+Maryland,2010,367.5
+Maryland,2011,385.2
+Maryland,2012,399.4
+Maryland,2013,399.9
+Maryland,2014,417.6
+Maryland,2015,436.1
+Massachusetts,1995,213.1
+Massachusetts,1996,233.8
+Massachusetts,1997,252.1
+Massachusetts,1998,275.3
+Massachusetts,1999,294.8
+Massachusetts,2000,322.7
+Massachusetts,2001,317.2
+Massachusetts,2002,335.1
+Massachusetts,2003,409.1
+Massachusetts,2004,431
+Massachusetts,2005,386.9
+Massachusetts,2006,414
+Massachusetts,2007,440.2
+Massachusetts,2008,428.6
+Massachusetts,2009,415.2
+Massachusetts,2010,437.3
+Massachusetts,2011,459.7
+Massachusetts,2012,490.3
+Massachusetts,2013,490.6
+Massachusetts,2014,520.3
+Massachusetts,2015,549.4
+Michigan,1995,264.3
+Michigan,1996,290.6
+Michigan,1997,309.4
+Michigan,1998,327.9
+Michigan,1999,345.6
+Michigan,2000,371.3
+Michigan,2001,363.7
+Michigan,2002,393.4
+Michigan,2003,465.6
+Michigan,2004,478.2
+Michigan,2005,427
+Michigan,2006,433.1
+Michigan,2007,446.5
+Michigan,2008,420
+Michigan,2009,390.1
+Michigan,2010,412.6
+Michigan,2011,435.4
+Michigan,2012,462
+Michigan,2013,471.4
+Michigan,2014,495.2
+Michigan,2015,522.3
+Minnesota,1995,137.8
+Minnesota,1996,158.1
+Minnesota,1997,170.3
+Minnesota,1998,184.3
+Minnesota,1999,193.1
+Minnesota,2000,213
+Minnesota,2001,212.6
+Minnesota,2002,223.4
+Minnesota,2003,276.4
+Minnesota,2004,295.2
+Minnesota,2005,263.7
+Minnesota,2006,274.9
+Minnesota,2007,288.4
+Minnesota,2008,287.1
+Minnesota,2009,273.3
+Minnesota,2010,286.9
+Minnesota,2011,303.3
+Minnesota,2012,322.4
+Minnesota,2013,326.6
+Minnesota,2014,346
+Minnesota,2015,357.5
+Mississippi,1995,58.1
+Mississippi,1996,63.5
+Mississippi,1997,66.8
+Mississippi,1998,70.7
+Mississippi,1999,73.3
+Mississippi,2000,75.4
+Mississippi,2001,76.9
+Mississippi,2002,79.5
+Mississippi,2003,92.6
+Mississippi,2004,98.1
+Mississippi,2005,91.5
+Mississippi,2006,98.6
+Mississippi,2007,104.8
+Mississippi,2008,110.1
+Mississippi,2009,104.4
+Mississippi,2010,106.4
+Mississippi,2011,108.9
+Mississippi,2012,115.4
+Mississippi,2013,115.8
+Mississippi,2014,118.3
+Mississippi,2015,119.8
+Missouri,1995,149.5
+Missouri,1996,165.6
+Missouri,1997,176.1
+Missouri,1998,187
+Missouri,1999,192.3
+Missouri,2000,206.2
+Missouri,2001,207.4
+Missouri,2002,220.1
+Missouri,2003,258.5
+Missouri,2004,273.6
+Missouri,2005,248.6
+Missouri,2006,262.6
+Missouri,2007,275.5
+Missouri,2008,280.9
+Missouri,2009,272.8
+Missouri,2010,279.6
+Missouri,2011,285.3
+Missouri,2012,301.6
+Missouri,2013,305.6
+Missouri,2014,317.8
+Missouri,2015,329.5
+Montana,1995,19.7
+Montana,1996,21.3
+Montana,1997,22.2
+Montana,1998,23.8
+Montana,1999,24.3
+Montana,2000,25.4
+Montana,2001,26.5
+Montana,2002,27.7
+Montana,2003,29.9
+Montana,2004,32.8
+Montana,2005,34.9
+Montana,2006,38.4
+Montana,2007,42.3
+Montana,2008,42.4
+Montana,2009,40.1
+Montana,2010,42.1
+Montana,2011,45.7
+Montana,2012,48.7
+Montana,2013,48.2
+Montana,2014,51.1
+Montana,2015,52.2
+Nebraska,1996,53.1
+Nebraska,1997,54.8
+Nebraska,1998,58.5
+Nebraska,1995,46.1
+Nebraska,1999,60.3
+Nebraska,2000,65.5
+Nebraska,2001,66.4
+Nebraska,2002,69.3
+Nebraska,2003,79.9
+Nebraska,2004,84.7
+Nebraska,2005,80.6
+Nebraska,2006,86.3
+Nebraska,2007,93.2
+Nebraska,2008,94.2
+Nebraska,2009,93.5
+Nebraska,2010,99.5
+Nebraska,2011,108
+Nebraska,2012,113.6
+Nebraska,2013,115.2
+Nebraska,2014,123.1
+Nebraska,2015,124.2
+Nevada,1995,52.6
+Nevada,1996,61.7
+Nevada,1997,68
+Nevada,1998,75
+Nevada,1999,80.3
+Nevada,2000,88.7
+Nevada,2001,89.3
+Nevada,2002,95.3
+Nevada,2003,103.2
+Nevada,2004,122.6
+Nevada,2005,139.5
+Nevada,2006,150.3
+Nevada,2007,155.1
+Nevada,2008,144.1
+Nevada,2009,130.7
+Nevada,2010,134
+Nevada,2011,137.5
+Nevada,2012,145.3
+Nevada,2013,146.2
+Nevada,2014,151.4
+Nevada,2015,161.5
+New Hampshire,1995,38.9
+New Hampshire,1996,43
+New Hampshire,1997,46.6
+New Hampshire,1998,50.5
+New Hampshire,1999,54.2
+New Hampshire,2000,57.3
+New Hampshire,2001,55.6
+New Hampshire,2002,58.3
+New Hampshire,2003,65.6
+New Hampshire,2004,70.5
+New Hampshire,2005,70
+New Hampshire,2006,74.6
+New Hampshire,2007,77.8
+New Hampshire,2008,75.6
+New Hampshire,2009,73.7
+New Hampshire,2010,76.5
+New Hampshire,2011,79.4
+New Hampshire,2012,83.8
+New Hampshire,2013,84.2
+New Hampshire,2014,87.4
+New Hampshire,2015,91.2
+New Jersey,1995,307.2
+New Jersey,1996,336.3
+New Jersey,1997,357
+New Jersey,1998,381.7
+New Jersey,1999,400.9
+New Jersey,2000,435
+New Jersey,2001,437.8
+New Jersey,2002,458.3
+New Jersey,2003,558.3
+New Jersey,2004,591.1
+New Jersey,2005,533.3
+New Jersey,2006,568.8
+New Jersey,2007,599.6
+New Jersey,2008,596.8
+New Jersey,2009,564.4
+New Jersey,2010,576.2
+New Jersey,2011,593
+New Jersey,2012,628.8
+New Jersey,2013,635.7
+New Jersey,2014,659.8
+New Jersey,2015,686.2
+New Mexico,1995,43.4
+New Mexico,1996,48.4
+New Mexico,1997,53.1
+New Mexico,1998,54.2
+New Mexico,1999,54.9
+New Mexico,2000,55.5
+New Mexico,2001,58.4
+New Mexico,2002,64.6
+New Mexico,2003,71.1
+New Mexico,2004,78.9
+New Mexico,2005,79.9
+New Mexico,2006,84.9
+New Mexico,2007,89.4
+New Mexico,2008,92.9
+New Mexico,2009,87
+New Mexico,2010,90.6
+New Mexico,2011,94.6
+New Mexico,2012,97.6
+New Mexico,2013,96.8
+New Mexico,2014,102.1
+New Mexico,2015,100.4
+New York,1995,638.8
+New York,1996,707.5
+New York,1997,747.9
+New York,1998,813.3
+New York,1999,845.4
+New York,2000,878.8
+New York,2001,901.5
+New York,2002,958.8
+New York,2003,1139
+New York,2004,1225
+New York,2005,1143.2
+New York,2006,1227.5
+New York,2007,1304.3
+New York,2008,1245.3
+New York,2009,1237.7
+New York,2010,1301.4
+New York,2011,1349.8
+New York,2012,1470.9
+New York,2013,1478.3
+New York,2014,1568.3
+New York,2015,1623
+North Carolina,1995,199.4
+North Carolina,1996,222.3
+North Carolina,1997,243.3
+North Carolina,1998,266.9
+North Carolina,1999,286.1
+North Carolina,2000,307.6
+North Carolina,2001,312.5
+North Carolina,2002,322.4
+North Carolina,2003,370.8
+North Carolina,2004,398.1
+North Carolina,2005,382.7
+North Carolina,2006,418.4
+North Carolina,2007,435.7
+North Carolina,2008,446
+North Carolina,2009,423.5
+North Carolina,2010,432.2
+North Carolina,2011,451.1
+North Carolina,2012,470
+North Carolina,2013,479.9
+North Carolina,2014,508.4
+North Carolina,2015,538
+North Dakota,1995,15.3
+North Dakota,1996,18.1
+North Dakota,1997,18.1
+North Dakota,1998,19.6
+North Dakota,1999,19.7
+North Dakota,2000,20.6
+North Dakota,2001,21.2
+North Dakota,2002,22.9
+North Dakota,2003,25
+North Dakota,2004,26.3
+North Dakota,2005,26.6
+North Dakota,2006,29
+North Dakota,2007,32.2
+North Dakota,2008,36.1
+North Dakota,2009,34.8
+North Dakota,2010,39
+North Dakota,2011,45.5
+North Dakota,2012,57.4
+North Dakota,2013,58.8
+North Dakota,2014,64.2
+North Dakota,2015,60
+Ohio,1995,313.2
+Ohio,1996,341.8
+Ohio,1997,367.1
+Ohio,1998,390.9
+Ohio,1999,400.9
+Ohio,2000,427
+Ohio,2001,421.6
+Ohio,2002,449.6
+Ohio,2003,521.1
+Ohio,2004,553.5
+Ohio,2005,504
+Ohio,2006,525.3
+Ohio,2007,546.1
+Ohio,2008,534.8
+Ohio,2009,510.7
+Ohio,2010,531
+Ohio,2011,568.3
+Ohio,2012,600.5
+Ohio,2013,605.7
+Ohio,2014,642.5
+Ohio,2015,659.4
+Oklahoma,1995,74.2
+Oklahoma,1996,83.3
+Oklahoma,1997,89.4
+Oklahoma,1998,93.6
+Oklahoma,1999,96.9
+Oklahoma,2000,103.8
+Oklahoma,2001,108.3
+Oklahoma,2002,111.7
+Oklahoma,2003,127.7
+Oklahoma,2004,138.7
+Oklahoma,2005,138.3
+Oklahoma,2006,154.9
+Oklahoma,2007,166.4
+Oklahoma,2008,173.7
+Oklahoma,2009,156.8
+Oklahoma,2010,163
+Oklahoma,2011,179.6
+Oklahoma,2012,194.9
+Oklahoma,2013,202.1
+Oklahoma,2014,215.4
+Oklahoma,2015,207.9
+Oregon,1995,87.8
+Oregon,1996,105.1
+Oregon,1997,111.8
+Oregon,1998,119
+Oregon,1999,126.3
+Oregon,2000,129.3
+Oregon,2001,125.1
+Oregon,2002,133.5
+Oregon,2003,154
+Oregon,2004,171.9
+Oregon,2005,162.3
+Oregon,2006,182.3
+Oregon,2007,192.2
+Oregon,2008,197.7
+Oregon,2009,192.9
+Oregon,2010,202.3
+Oregon,2011,214.2
+Oregon,2012,215.5
+Oregon,2013,212.2
+Oregon,2014,222.4
+Oregon,2015,237.5
+Pennsylvania,1995,346.5
+Pennsylvania,1996,376.6
+Pennsylvania,1997,399.6
+Pennsylvania,1998,423.4
+Pennsylvania,1999,437.4
+Pennsylvania,2000,460.1
+Pennsylvania,2001,460.8
+Pennsylvania,2002,496.8
+Pennsylvania,2003,574
+Pennsylvania,2004,607.4
+Pennsylvania,2005,570.3
+Pennsylvania,2006,603.8
+Pennsylvania,2007,651.6
+Pennsylvania,2008,656.8
+Pennsylvania,2009,634.2
+Pennsylvania,2010,658
+Pennsylvania,2011,686.5
+Pennsylvania,2012,727.8
+Pennsylvania,2013,734.7
+Pennsylvania,2014,771.8
+Pennsylvania,2015,800.7
+Rhode Island,1995,29.1
+Rhode Island,1996,31.8
+Rhode Island,1997,35.4
+Rhode Island,1998,37.3
+Rhode Island,1999,38.5
+Rhode Island,2000,41.5
+Rhode Island,2001,42.8
+Rhode Island,2002,45.4
+Rhode Island,2003,53.2
+Rhode Island,2004,56.9
+Rhode Island,2005,53.4
+Rhode Island,2006,56.8
+Rhode Island,2007,58
+Rhode Island,2008,56.2
+Rhode Island,2009,55
+Rhode Island,2010,56.7
+Rhode Island,2011,58.4
+Rhode Island,2012,61
+Rhode Island,2013,61.1
+Rhode Island,2014,63.6
+Rhode Island,2015,65.5
+South Carolina,1995,90.9
+South Carolina,1996,99.8
+South Carolina,1997,107.5
+South Carolina,1998,115.2
+South Carolina,1999,120.6
+South Carolina,2000,130.3
+South Carolina,2001,132.9
+South Carolina,2002,139.6
+South Carolina,2003,159.7
+South Carolina,2004,167.8
+South Carolina,2005,159.4
+South Carolina,2006,171.6
+South Carolina,2007,184.2
+South Carolina,2008,181.9
+South Carolina,2009,175.8
+South Carolina,2010,179.4
+South Carolina,2011,187.9
+South Carolina,2012,197
+South Carolina,2013,201
+South Carolina,2014,214.8
+South Carolina,2015,227.3
+South Dakota,1995,19.9
+South Dakota,1996,22.1
+South Dakota,1997,22.8
+South Dakota,1998,23.9
+South Dakota,1999,25.4
+South Dakota,2000,27.8
+South Dakota,2001,28.7
+South Dakota,2002,30.8
+South Dakota,2003,33.9
+South Dakota,2004,36.8
+South Dakota,2005,35.6
+South Dakota,2006,37.8
+South Dakota,2007,41.3
+South Dakota,2008,43
+South Dakota,2009,40.9
+South Dakota,2010,42.6
+South Dakota,2011,47.3
+South Dakota,2012,49.7
+South Dakota,2013,49.6
+South Dakota,2014,51.3
+South Dakota,2015,53.5
+Tennessee,1995,140.7
+Tennessee,1996,154.3
+Tennessee,1997,165.6
+Tennessee,1998,177.6
+Tennessee,1999,186
+Tennessee,2000,194.6
+Tennessee,2001,199.2
+Tennessee,2002,211.3
+Tennessee,2003,242.2
+Tennessee,2004,261.3
+Tennessee,2005,244.5
+Tennessee,2006,260.9
+Tennessee,2007,269.2
+Tennessee,2008,269.3
+Tennessee,2009,261.5
+Tennessee,2010,269.3
+Tennessee,2011,282.9
+Tennessee,2012,304.2
+Tennessee,2013,307.7
+Tennessee,2014,323.6
+Tennessee,2015,341.1
+Texas,1995,535.3
+Texas,1996,593.4
+Texas,1997,655
+Texas,1998,697.2
+Texas,1999,733.5
+Texas,2000,795.9
+Texas,2001,810.8
+Texas,2002,847
+Texas,2003,982.3
+Texas,2004,1077.3
+Texas,2005,1058.3
+Texas,2006,1178.8
+Texas,2007,1282.8
+Texas,2008,1345
+Texas,2009,1225.6
+Texas,2010,1305.2
+Texas,2011,1431.9
+Texas,2012,1565.3
+Texas,2013,1625.8
+Texas,2014,1735.2
+Texas,2015,1728.6
+Utah,1995,47.8
+Utah,1996,56.1
+Utah,1997,60.2
+Utah,1998,64.7
+Utah,1999,68.3
+Utah,2000,75.6
+Utah,2001,77.2
+Utah,2002,82.3
+Utah,2003,92.1
+Utah,2004,100
+Utah,2005,101.6
+Utah,2006,115.5
+Utah,2007,127.7
+Utah,2008,125
+Utah,2009,118.5
+Utah,2010,123
+Utah,2011,130.7
+Utah,2012,138.6
+Utah,2013,141
+Utah,2014,150.3
+Utah,2015,159.7
+Vermont,1995,15.4
+Vermont,1996,16.8
+Vermont,1997,18
+Vermont,1998,19.2
+Vermont,1999,20.1
+Vermont,2000,21.5
+Vermont,2001,21.7
+Vermont,2002,23.2
+Vermont,2003,25.8
+Vermont,2004,27.9
+Vermont,2005,27.1
+Vermont,2006,28.9
+Vermont,2007,30
+Vermont,2008,29.7
+Vermont,2009,28.8
+Vermont,2010,29.6
+Vermont,2011,31.5
+Vermont,2012,32.7
+Vermont,2013,32.7
+Vermont,2014,34.2
+Vermont,2015,35.3
+Virginia,1995,208.2
+Virginia,1996,232.2
+Virginia,1997,247.2
+Virginia,1998,267.6
+Virginia,1999,282.8
+Virginia,2000,307.6
+Virginia,2001,320.2
+Virginia,2002,338.9
+Virginia,2003,417.2
+Virginia,2004,451
+Virginia,2005,411.3
+Virginia,2006,442.4
+Virginia,2007,464.4
+Virginia,2008,458.6
+Virginia,2009,451.5
+Virginia,2010,468.3
+Virginia,2011,486.3
+Virginia,2012,509
+Virginia,2013,506.5
+Virginia,2014,528.6
+Virginia,2015,552.4
+Washington,1995,163
+Washington,1996,182.6
+Washington,1997,197.7
+Washington,1998,219.5
+Washington,1999,238.2
+Washington,2000,257.2
+Washington,2001,251.4
+Washington,2002,272.8
+Washington,2003,301.6
+Washington,2004,325.9
+Washington,2005,329.3
+Washington,2006,358.9
+Washington,2007,399.2
+Washington,2008,395.6
+Washington,2009,373.9
+Washington,2010,383.7
+Washington,2011,401.1
+Washington,2012,435.9
+Washington,2013,442.4
+Washington,2014,475.4
+Washington,2015,502.1
+West Virginia,1995,41
+West Virginia,1996,44.1
+West Virginia,1997,45.7
+West Virginia,1998,46.9
+West Virginia,1999,48.3
+West Virginia,2000,48.9
+West Virginia,2001,50.3
+West Virginia,2002,53.6
+West Virginia,2003,59
+West Virginia,2004,62.2
+West Virginia,2005,60.7
+West Virginia,2006,65.2
+West Virginia,2007,68.8
+West Virginia,2008,72.4
+West Virginia,2009,72.7
+West Virginia,2010,75.6
+West Virginia,2011,80.4
+West Virginia,2012,81
+West Virginia,2013,81.5
+West Virginia,2014,84.3
+West Virginia,2015,84.2
+Wisconsin,1995,143.2
+Wisconsin,1996,158.8
+Wisconsin,1997,168.2
+Wisconsin,1998,180.9
+Wisconsin,1999,187.2
+Wisconsin,2000,203.4
+Wisconsin,2001,205.1
+Wisconsin,2002,217.8
+Wisconsin,2003,252.9
+Wisconsin,2004,269.4
+Wisconsin,2005,249.8
+Wisconsin,2006,265.8
+Wisconsin,2007,277
+Wisconsin,2008,272.9
+Wisconsin,2009,266.3
+Wisconsin,2010,274.1
+Wisconsin,2011,289.2
+Wisconsin,2012,305.4
+Wisconsin,2013,310.1
+Wisconsin,2014,324.7
+Wisconsin,2015,336.6
+Wyoming,1995,16.9
+Wyoming,1996,19.2
+Wyoming,1997,18.9
+Wyoming,1998,19.8
+Wyoming,1999,20.5
+Wyoming,2000,20.9
+Wyoming,2001,21.8
+Wyoming,2002,22.4
+Wyoming,2003,24.5
+Wyoming,2004,28
+Wyoming,2005,32.4
+Wyoming,2006,39
+Wyoming,2007,43.3
+Wyoming,2008,48
+Wyoming,2009,39.5
+Wyoming,2010,42.4
+Wyoming,2011,45.2
+Wyoming,2012,53.3
+Wyoming,2013,46.8
+Wyoming,2014,48.3
+Wyoming,2015,45.6
